@@ -1,0 +1,31 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "These are practices and algorithms done in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc --reporter=text mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-x-mi/js.git"
+  },
+  "keywords": [
+    "javaascript",
+    "js",
+    "algorithms",
+    "learn",
+    "js",
+    "nodejs"
+  ],
+  "author": "Ezrqn Kemboi <ezrqnkemboi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me-x-mi/js/issues"
+  },
+  "homepage": "https://github.com/me-x-mi/js#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.1"
+  }
+}
