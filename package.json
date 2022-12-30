@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/me-x-mi/js#readme",
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nyc": "^14.1.1"
   }
 }
